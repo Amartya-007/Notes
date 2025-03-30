@@ -202,3 +202,194 @@ Keywords are fundamental to the Java programming language and are used to define
 | `void`        | Specifies that a method does not return a value.                            |
 | `volatile`    | Indicates that a variable can be modified by multiple threads.              |
 | `while`       | Initiates a `while` loop that continues as long as the condition is true.   |
+
+### 🎯 Control Flow Keywords
+
+|  |  |  |
+|--------------|--------------|--------------|
+| `continue`   | `for`         | `switch`     |
+| `do`         | `if`          | `while`      |
+| `else`       | `break`       | `return`     |
+| `try`        | `catch`       | `throw`      |
+| `throws`     | `finally`     |              |
+
+---
+
+### 🔒 Access Modifiers
+
+|              |              |              |
+|--------------|--------------|--------------|
+| `private`    | `public`      | `protected`  |
+
+---
+
+### 🎭 Object-Oriented Programming (OOP) Keywords
+
+|              |              |              |              |
+|--------------|--------------|--------------|--------------|
+| `class`      | `interface`   | `extends`    | `implements` |
+| `this`       | `super`       | `instanceof` |              |
+
+---
+
+### ⚠️ Exception Handling Keywords
+
+|          |          |          |          |          |
+|----------|----------|----------|----------|----------|
+| `try`    | `catch`  | `throw`  | `throws`  | `finally` |
+
+---
+
+### 🧮 Data Types
+
+|          |          |          |          |          |
+|----------|----------|----------|----------|----------|
+| `boolean`| `byte`   | `char`   | `double` | `float`   |
+| `int`    | `long`   | `short`  | `void`   |           |
+
+---
+
+### 🏷️ Modifiers
+
+|                |          |          |          |            |
+|----------------|----------|----------|----------|------------|
+| `abstract`     | `final`  | `native` | `static` | `strictfp` |
+| `synchronized` | `transient` | `volatile` |          |            |
+
+---
+
+### 🔄 Miscellaneous Keywords
+
+|          |          |          |          |       |
+|----------|----------|----------|----------|-------|
+| `assert` | `default` | `import` | `package` | `new` |
+
+---
+
+### ❌ Deprecated/Unused Keywords
+
+|         |        |
+|---------|--------|
+| `const` | `goto` |
+
+---
+
+## 📚 Examples of Keywords
+
+---
+
+### 📌 Example 1: Using `if` and `else` keywords
+
+The `if` and `else` keywords define conditional statements.
+
+```java
+public class Keywords {
+    public static void main(String[] args) {
+        int number = -10;
+
+        if (number > 0) {
+            System.out.println("The number is positive.");
+        } else {
+            System.out.println("The number is negative.");
+        }
+    }
+}
+```
+
+✅ **Output:**
+
+```code
+The number is negative.
+```
+
+---
+
+### 📌 Example 2: Using `for` loop
+
+The `for` keyword creates a loop that executes a block of code a specified number of times.
+
+```java
+public class Keywords {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 5; i++) {
+            System.out.print(i + " ");
+        }
+    }
+}
+
+```
+
+✅ **Output:**
+
+```code
+1 2 3 4 5
+```
+
+---
+
+### 📌 Example 3: Using `class` keyword
+
+The `class` keyword declares a class in Java.
+
+```java
+class Person {
+    String name;
+    int age;
+}
+```
+
+---
+
+### 📌 Example 4: Using `return` keyword
+
+The `return` keyword exits a method and returns a value to the caller.
+
+```java
+public class Keywords {
+    public static int add(int a, int b) {
+        return a + b;
+    }
+
+    public static void main(String[] args) {
+        int result = add(5, 3);
+        System.out.println("The sum is: " + result);
+    }
+}
+```
+
+✅ **Output:**
+
+```code
+The sum is: 8
+```
+
+---
+
+### 📌 Example 5: Using `try`, `catch`, and `finally` keywords
+
+The `try`, `catch`, and `finally` keywords handle exceptions in Java.
+
+```java
+public class Keywords {
+    public static void main(String[] args) {
+        int[] numbers = {1, 2, 3};
+
+        try {
+            System.out.println(numbers[4]);  // Accessing an invalid index
+        } catch (ArrayIndexOutOfBoundsException e) {
+            System.out.println("An error occurred: " + e.getMessage());
+        } finally {
+            System.out.println("This block is always executed.");
+        }
+    }
+}
+```
+
+✅ **Output:**
+
+```code
+An error occurred: Index 4 out of bounds for length 3
+This block is always executed.
+```
+
+---
