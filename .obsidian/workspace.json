@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "f01c9fc2ed91e5b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf23e379fed3ffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02313b5393fe0748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java_Notes/Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6527fb6218a4f54",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3708e9cec45b8d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9836cec8595db93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c6c98ed09e76fd15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ecc212f265e2d942",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a42d4c3e9e9074d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "50a4079ba1b45d9d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "aa9b4cded220f6f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6598a07b5b14d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39d15f6248ab3a11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java_Notes/Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Roadmap"
+            }
+          },
+          {
+            "id": "44780e5e64db6fa6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java_Notes/Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Roadmap"
+            }
+          },
+          {
+            "id": "939ba9bd49d046f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "da757d72b8c59970",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java_Notes/Roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Roadmap"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "02313b5393fe0748",
+  "lastOpenFiles": [
+    "Java_Notes/basic/01b_operators.md",
+    "Java_Notes/basic/basic.md",
+    "Java_Notes/Java_Notes.md",
+    "Java_Notes/README.md",
+    "Java_Notes/build_tools/build_tools.md",
+    "Java_Notes/DSA/DSA.md",
+    "Java_Notes/intermediate/intermediate.md",
+    "Java_Notes/advanced/advanced.md",
+    "Java_Notes/Java_Notes/basic/01c_control_flow.md",
+    "Java_Notes/intermediate/03_java_io.md",
+    "Java_Notes/intermediate/02_multithreading.md",
+    "Java_Notes/intermediate/01_collections.md",
+    "Java_Notes/intermediate",
+    "Java_Notes/DSA/07_complexity_analysis.md",
+    "Java_Notes/DSA/06_string_algorithms.md",
+    "Java_Notes/DSA/05_algorithm_design.md",
+    "Java_Notes/DSA/04_graphs.md",
+    "Java_Notes/DSA/03_trees.md",
+    "Java_Notes/DSA/02_stack_queue.md",
+    "Java_Notes/DSA/01_basic_data_structures.md",
+    "Java_Notes/DSA",
+    "Java_Notes/build_tools/03_ides.md",
+    "Java_Notes/build_tools/02_git_github.md",
+    "Java_Notes/build_tools/01_maven_gradle.md",
+    "Java_Notes/build_tools",
+    "Java_Notes/basic/04_enums_annotations_inner_classes.md",
+    "Java_Notes/basic/03_exception_handling.md",
+    "Java_Notes/basic/02_oop_concepts.md",
+    "Java_Notes/basic/01_java_syntax.md",
+    "Java_Notes/basic",
+    "Java_Notes/advanced",
+    "Tags"
+  ]
+}
