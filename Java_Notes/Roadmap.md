@@ -49,7 +49,6 @@ sticker: emoji//1f3c3
 
 ## **Advanced Programming Techniques**
 
-
 - [[advanced/02_design_patterns|SOLID Principles]], OOP Design, UML
 
 - [[advanced/02_design_patterns|Design Patterns]]: Singleton, Factory, Builder, Adapter, Decorator, Observer, Strategy
@@ -62,8 +61,8 @@ sticker: emoji//1f3c3
 
 - [[advanced/07_clean_code|Clean Code]]: Naming, Formatting, Refactoring, Static Analysis, Unit Testing
 
-
 ---
+
 ## **Java Ecosystem & Application Domains**
 
 - [[advanced/03_enterprise_java|Web Development]]: Servlets, JSP, Spring Core, Spring MVC, Spring Boot, REST APIs
@@ -80,11 +79,9 @@ sticker: emoji//1f3c3
 
 - Testing: JUnit, Mockito, Integration Testing, CI/CD
 
-
---- 
+---
 
 ## **Build Tools & Environment**
-
 
 - [[build_tools/01_maven_gradle|Maven, Gradle]], Project Structure, Dependency Management
 
@@ -99,7 +96,6 @@ sticker: emoji//1f3c3
 ---
 
 ## **Best Practices & Career Preparation**
-
 
 - Coding Standards, Clean Code, Test-Driven Development (TDD)
 
