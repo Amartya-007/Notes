@@ -1,4 +1,4 @@
 ---
-color: var(--mk-ui-text-primary)
+color: var(--mk-color-base-20)
 sticker: emoji//1f4ee
 ---
