@@ -4,30 +4,30 @@ Java is a class-based, object-oriented programming language designed to be simpl
 
 ## Key Knowledge Points
 
-- [[01a_variables_and_data_types|Variables and Data Types]]
+- [Variables and Data Types](01a_variables_and_data_types.md)
   - Primitive types (int, double, boolean, etc.)
   - Reference types
   - Type conversion and casting
 
-- [[01b_operators|Operators]]
+- [Operators](01b_operators.md)
   - Arithmetic operators (+, -, *, /, %)
   - Relational operators ( !=, >, <, >=, <=)
   - Logical operators (&&, ||, !)
   - Assignment operators (=, +=, -=, etc.)
 
-- [[01c_control_flow|Control Flow]]
+- [Control Flow](01c_control_flow.md)
   - if-else statements
   - switch statements
   - Loops (for, while, do-while)
   - break and continue
 
-- [[01d_methods|Methods]]
+- [Methods](01d_methods.md)
   - Method declaration
   - Parameters and return types
   - Method overloading
   - Access modifiers
 
-- [[Arrays]]
+- [Arrays](Arrays.md)
   - Single-dimensional arrays
   - Multi-dimensional arrays
   - Array operations and methods

@@ -19,7 +19,7 @@ A method declaration specifies the method's name, return type, parameters, and b
 
 **Components:**
 
--   **`<access_modifier>`:** (e.g., `public`, `private`, `protected`, or default/package-private) Defines the visibility of the method.
+-   ***`<access_modifier>*`:** (e.g., `public`, `private`, `protected`, or default/package-private) Defines the visibility of the method.
 -   **`<static_modifier_optional>`:** If `static`, the method belongs to the class rather than an instance of the class.
 -   **`<return_type>`:** The data type of the value returned by the method. If the method does not return a value, `void` is used.
 -   **`<method_name>`:** The name of the method (should follow camelCase convention).
