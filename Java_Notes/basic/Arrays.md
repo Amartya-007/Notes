@@ -1,6 +1,7 @@
 # Arrays in Java
 
 Arrays are fundamental data structures in Java used to store a collection of elements of the same data type. They provide a way to organize and access data efficiently.
+
 ## Key Concepts
 
 ### 1. Declaration and Initialization
@@ -43,7 +44,7 @@ Arrays can be initialized at the time of declaration or later.
 
 ### 2. Accessing Array Elements
 
-Array elements are accessed using their index, which is zero-based (starts from 0). 
+Array elements are accessed using their index, which is zero-based (starts from 0).
 To access an element, use the syntax `arrayName[index]`.
 
 ```java
@@ -61,6 +62,7 @@ int arrayLength = numbers.length; // Returns 5
 ```
 
 ## Single-Dimensional Arrays
+
 A single-dimensional array is a linear collection of elements of the same type. It is the simplest form of an array and is often used to store lists of items.
 
 **Example:**
@@ -192,7 +194,7 @@ While Java's built-in arrays have a fixed size and limited direct methods, the `
   System.out.println("Index of 35: " + notFoundIndex); // Output: Index of 35: -4 ((-(3) - 1))
   ```
 
-### Limitations of Arrays:
+### Limitations of Arrays
 
 - **Fixed Size**: Once an array is created, its size cannot be changed. For dynamic collections, consider using `ArrayList` or other collection classes.
 - **Homogeneous**: Arrays can only store elements of the same data type.
